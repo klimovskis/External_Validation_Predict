@@ -120,10 +120,6 @@ The predicted 5-year mortality used for validation is `1 − surv`.
 
 PREDICT Breast was developed at the University of Cambridge. The vectorised model implementations were provided by Prof. Paul Pharoah. The public web calculator is available at <https://breast.predict.nhs.uk>.
 
-## License
-
-To be added.
-
 ## Contact
 
 Nikita Klimovskis: nklimovsky@rsu.edu.lv
